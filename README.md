@@ -1,1 +1,4 @@
-TPN Hackathon README
+##Brainstorming
+- person tracking
+- blind person navigation
+- snitch
